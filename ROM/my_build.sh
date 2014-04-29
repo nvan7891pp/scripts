@@ -21,13 +21,13 @@ EOL
 }
 
 # Configurable parameters
-ccache_dir=/home/laufersteppenwolf/ccache/CM11
-ccache_log=/home/laufersteppenwolf/ccache/CM11/ccache.log
+ccache_dir=/home/nick/.ccache
+ccache_log=/home/nick/.ccache/ccache.log
 jobs_sync=30
 jobs_build=20
-rom=cm
-rom_version=11
-device_codename=p880
+rom=aokp
+rom_version=kitkat
+device_codename=kltespr
 
 
 # Reset all variables that might be set
